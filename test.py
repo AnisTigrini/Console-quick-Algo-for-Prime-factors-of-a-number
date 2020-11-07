@@ -1,4 +1,3 @@
-# Nom : Anis Tigrini
 
 # 1) On émet une variable 'running' qui est vraie pour faire rouler la boucle indéfiniment.
 running = True
